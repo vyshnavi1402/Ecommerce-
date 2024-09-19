@@ -1,18 +1,18 @@
 # Output
 
-I developed a fully functional e-commerce website using HTML, CSS, and JavaScript. The website includes intuitive navigation across multiple pages, such as:
+I developed a fully functional **e-commerce website using HTML, CSS, and JavaScript**. The website includes intuitive navigation across multiple pages, such as:
 
-Home: Welcoming landing page with featured products and latest offers.
+**Home**: Welcoming landing page with featured products and latest offers.
 
-Shop: A dedicated product listing page, showcasing various categories with detailed product descriptions.
+**Shop**: A dedicated product listing page, showcasing various categories with detailed product descriptions.
 
-Blog: A space for articles and updates related to products, trends, or company news.
+**Blog**: A space for articles and updates related to products, trends, or company news.
 
-Contact: A form where users can get in touch for inquiries or support.
+**Contact**: A form where users can get in touch for inquiries or support.
 
-Cart: A seamless shopping cart that allows users to review, add, or remove products before checkout.
+**Cart**: A seamless shopping cart that allows users to review, add, or remove products before checkout.
 
-This project demonstrates essential front-end skills and the ability to create a responsive, user-friendly interface for an online shopping experience.
+This project demonstrates essential **front-end skills** and the ability to create a responsive, user-friendly interface for an online shopping experience.
 
 # Homepage
 ![image](https://github.com/user-attachments/assets/139090c8-8526-4ee9-a0b5-5fc09efb7205)
